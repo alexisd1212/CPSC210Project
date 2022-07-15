@@ -1,0 +1,16 @@
+{"cart items": [
+    {
+        "price": 50.99,
+        "name": "Blender",
+        "description": "Metal multipurpose blender",
+        "category": "APPLIANCES",
+        "inventory": 4
+    },
+    {
+        "price": 21.99,
+        "name": "Advil",
+        "description": "Pain relief medicine",
+        "category": "MEDICAL",
+        "inventory": 10
+    }
+]}

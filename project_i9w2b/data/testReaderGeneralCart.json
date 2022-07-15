@@ -1,0 +1,18 @@
+{
+  "cart items": [
+    {
+      "name": "Mozzarella cheese",
+      "price": 5.99,
+      "description": "Gourmet aged mozzarella cheese",
+      "category": "FOOD",
+      "inventory": 25
+    },
+    {
+      "name": "Blender",
+      "price": 50.99,
+      "description": "Metal multipurpose blender",
+      "category": "APPLIANCES",
+      "inventory": 5
+    }
+  ]
+}
